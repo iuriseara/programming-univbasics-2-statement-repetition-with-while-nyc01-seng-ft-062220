@@ -5,5 +5,6 @@ while count < 11 do
   puts "#{count}"
   count -= 1
   break if count == 0
-  puts "Happy New Year!"
 end
+
+puts "Happy New Year!"
